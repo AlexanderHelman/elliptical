@@ -1,0 +1,12 @@
+Package: elliptical
+Type: Package
+Title: Functions for ellipses
+Version: 0.1.0
+Author: Alexander <ahelman@princeton.edu>
+Maintainer: Alexander <ahelman@princeton.edu>
+Description: Functions for various characteristics of ellipses.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
